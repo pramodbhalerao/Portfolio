@@ -13,11 +13,11 @@ Data Science Projects ( - Python - )
 
 Javascript Projects (NodeJs + React + Redux + MongoDB)
 
-1. [AlphaKART](https://github.com/infomediadesign/sad-2019-2-team1)
+   [AlphaKART](https://github.com/infomediadesign/sad-2019-2-team1)
 
 Java Projects
 
-1. [Bike Hire System](https://github.com/SRH-SDP-2018-Oct/sdpoctober2018-projects-group1-bike-hire-system)
+   [Bike Hire System](https://github.com/SRH-SDP-2018-Oct/sdpoctober2018-projects-group1-bike-hire-system)
 
 
 
